@@ -1,6 +1,22 @@
 
 
+footer{
+    background-color: grey;
+    max-height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
 
+a{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.logolink{
+    max-height: 30px;
+    max-width: 30px;
+}
 
 
 
